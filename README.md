@@ -2,9 +2,9 @@
 
 ### AI Assisted Product Engineer
 
-I direct AI agents to turn complex product ideas into working software through architecture, constraints, testing and evidence.
+I turn ambiguous product problems into working software by combining creative problem solving, rapid prototyping and AI directed engineering.
 
-My focus is AI native product development, where coding agents accelerate implementation while engineering decisions remain grounded in explicit specifications, domain rules, validation and review.
+I use AI agents to accelerate implementation while keeping architecture, constraints, validation and technical decisions explicit.
 
 ## What I work on
 
@@ -24,9 +24,19 @@ Turning business problems into working software through domain modeling, APIs, p
 
 Designing modular systems with clear boundaries, explicit contracts and architecture decisions that remain verifiable as the product evolves.
 
+## How I Approach Problems
+
+I am especially comfortable turning unclear ideas into structured, testable products.
+
+I usually begin by identifying the real constraint, exploring available tools and possible approaches, then building the smallest useful prototype that can produce evidence.
+
+From there, I refine the architecture, validate assumptions and progressively increase engineering rigor.
+
+This approach combines problem decomposition, solution discovery, technical exploration and rapid prototyping.
+
 ## Selected Work
 
-### Pulso
+### [Pulso](https://github.com/Jetferrari/pulso-case-study)
 
 Financial decision intelligence platform combining deterministic financial systems with governed AI assisted decision interfaces.
 
@@ -46,7 +56,7 @@ Pulso explores a central question:
 
 **How can probabilistic AI operate inside systems that require deterministic financial guarantees?**
 
-### ArcanoZero
+### [ArcanoZero](https://github.com/Jetferrari/arcanozero-case-study)
 
 White label restaurant commerce platform built through an AI directed engineering workflow.
 
