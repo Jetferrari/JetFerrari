@@ -36,7 +36,7 @@ This approach combines problem decomposition, solution discovery, technical expl
 
 ## Selected Work
 
-### [Pulsar](https://github.com/Jetferrari/pulso-case-study)
+### [Pulsar](https://github.com/Jetferrari/pulsar-case-study)
 
 Financial decision intelligence platform combining deterministic financial systems with governed AI assisted decision interfaces.
 
@@ -56,7 +56,7 @@ Pulsar explores a central question:
 
 **How can probabilistic AI operate inside systems that require deterministic financial guarantees?**
 
-### [RestaurantZero](https://github.com/Jetferrari/arcanozero-case-study)
+### [RestaurantZero](https://github.com/Jetferrari/restaurantzero-case-study)
 
 White label restaurant commerce platform built through an AI directed engineering workflow.
 
