@@ -36,7 +36,7 @@ This approach combines problem decomposition, solution discovery, technical expl
 
 ## Selected Work
 
-### [Pulso](https://github.com/Jetferrari/pulso-case-study)
+### [Pulsar](https://github.com/Jetferrari/pulso-case-study)
 
 Financial decision intelligence platform combining deterministic financial systems with governed AI assisted decision interfaces.
 
@@ -52,11 +52,11 @@ Current engineering areas include:
 * TypeScript monorepo
 * PostgreSQL foundation
 
-Pulso explores a central question:
+Pulsar explores a central question:
 
 **How can probabilistic AI operate inside systems that require deterministic financial guarantees?**
 
-### [ArcanoZero](https://github.com/Jetferrari/arcanozero-case-study)
+### [RestaurantZero](https://github.com/Jetferrari/arcanozero-case-study)
 
 White label restaurant commerce platform built through an AI directed engineering workflow.
 
@@ -74,7 +74,7 @@ Current implementation includes:
 * Configurable white label foundation
 * Domain modeling in TypeScript
 
-ArcanoZero explores another question:
+RestaurantZero explores another question:
 
 **Can AI coding agents build conventional product software without sacrificing engineering discipline?**
 
@@ -116,7 +116,7 @@ Domain Driven Design, Hexagonal Architecture, Ports and Adapters, automated test
 
 ## Current Focus
 
-I am currently focused on building Pulso and ArcanoZero while developing a professional practice around AI assisted and agentic product engineering.
+I am currently focused on building Pulsar and RestaurantZero while developing a professional practice around AI assisted and agentic product engineering.
 
 My goal is not to replace engineering with AI.
 
