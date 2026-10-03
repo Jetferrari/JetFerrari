@@ -1,123 +1,98 @@
 # Jeterson Ferrari
 
-### AI Assisted Product Engineer
+## AI-Directed Product Builder
 
-I turn ambiguous product problems into working software by combining creative problem solving, rapid prototyping and AI directed engineering.
+Give me the problem. I structure the solution, define the plan, and coordinate AI agents until it becomes functional software.
 
-I use AI agents to accelerate implementation while keeping architecture, constraints, validation and technical decisions explicit.
+I am self-taught and work with AI-directed software development. I turn product problems and ideas into functional software by coordinating AI systems from research and planning through implementation, testing, and result validation.
 
-## What I work on
+I am currently building my own projects and looking for my first professional opportunity in an environment where this AI-native way of creating software can be applied to real problems.
 
-**AI Assisted Software Development**
+## How I work
 
-Directing coding agents through structured requirements, architecture, constraints, acceptance criteria and validation workflows.
+My contribution happens before and around the code:
 
-**AI Application Engineering**
+- product conception and problem definition
+- research and product intelligence
+- expected outcome definition
+- high-level architecture planning with AI
+- constraints, specifications, and validation criteria
+- Prompt Engineering and Context Design
+- specialized agent design
+- Agent Orchestration and task decomposition
+- coordination of AI coding agents
+- Cross-Model Review and automated testing coordination
+- validation of behavior, interface, evidence, and expected results
 
-Building LLM powered features with structured outputs, deterministic boundaries, abstention, evaluation and governance.
+Implementation code is produced by AI coding agents.
 
-**Product Engineering**
+I do not manually write implementation code, perform line-by-line code review, or use VS Code or another traditional code editor as the central environment in my workflow. I direct the system that produces the software and decide what should be corrected, investigated further, or advanced.
 
-Turning business problems into working software through domain modeling, APIs, persistence, frontend systems and iterative delivery.
-
-**Software Architecture**
-
-Designing modular systems with clear boundaries, explicit contracts and architecture decisions that remain verifiable as the product evolves.
-
-## How I Approach Problems
-
-I am especially comfortable turning unclear ideas into structured, testable products.
-
-I usually begin by identifying the real constraint, exploring available tools and possible approaches, then building the smallest useful prototype that can produce evidence.
-
-From there, I refine the architecture, validate assumptions and progressively increase engineering rigor.
-
-This approach combines problem decomposition, solution discovery, technical exploration and rapid prototyping.
-
-## Selected Work
+## Selected work
 
 ### [Pulsar](https://github.com/Jetferrari/pulsar-case-study)
 
-Financial decision intelligence platform combining deterministic financial systems with governed AI assisted decision interfaces.
+Financial Decision Intelligence exploring how deterministic software and governed AI can coexist within explicit boundaries.
 
-Current engineering areas include:
-
-* Intent classification with structured model outputs
-* Natural language compilation into a formal decision language
-* Grounded explanations based on verified evidence
-* LLM evaluation and governance
-* Deterministic validation boundaries
-* Domain driven architecture
-* Architecture fitness testing
-* TypeScript monorepo
-* PostgreSQL foundation
-
-Pulsar explores a central question:
-
-**How can probabilistic AI operate inside systems that require deterministic financial guarantees?**
+My direct contribution includes product conception, problem definition, expected outcome design, solution planning with AI, constraint definition, agent orchestration, and final behavior validation.
 
 ### [RestaurantZero](https://github.com/Jetferrari/restaurantzero-case-study)
 
-White label restaurant commerce platform built through an AI directed engineering workflow.
+Restaurant commerce focused on direct digital ordering, configurable catalog behavior, server-side pricing, persistent cart state, order creation, idempotency, and configurable branding.
 
-Current implementation includes:
+My direct contribution includes product conception, flow definition, capability prioritization, solution planning, and coordination of the agents responsible for technical implementation.
 
-* PostgreSQL backed catalog
-* Persistent server side cart
-* Authoritative pricing rules
-* REST APIs
-* Runtime validation
-* Revision controlled mutations
-* Idempotent Place Order flow
-* Immutable Order snapshots
-* Capability based guest access
-* Configurable white label foundation
-* Domain modeling in TypeScript
+## Portfolio
 
-RestaurantZero explores another question:
+The full Synaptic portfolio is maintained in:
 
-**Can AI coding agents build conventional product software without sacrificing engineering discipline?**
+[github.com/Jetferrari/portifolio](https://github.com/Jetferrari/portifolio)
 
-## How I Build
+It includes:
 
-My workflow is centered on direction and validation rather than manual code production.
+- multilingual PT / EN / ES content
+- Synaptic visual navigation
+- Profile
+- Process
+- AI Workflow
+- Architecture principles
+- Problem Solving
+- Pulsar case study
+- RestaurantZero case study
+- Contact information
 
-1. Define the product problem and expected behavior
-2. Establish architecture, boundaries and constraints
-3. Translate requirements into executable tasks
-4. Direct AI coding agents through implementation
-5. Validate results with tests, contracts and architecture rules
-6. Review evidence and reject outputs that do not satisfy the specification
-7. Iterate until implementation and intended behavior converge
+## Tools I use directly
 
-AI accelerates execution.
+**Planning, research, and reasoning**
 
-Architecture defines the system.
+ChatGPT, Gemini, Claude, Perplexity
 
-Evidence determines whether the result is acceptable.
+**Implementation agents and environments**
 
-## Core Technologies
+Antigravity, Codex, Claude Code, Lovable, Google AI Studio
 
-**Languages and Application Stack**
+**Local workflow**
 
-TypeScript, React, SQL, Node.js, Bun
+PowerShell
 
-**Backend and Data**
+## Technologies present in my projects
 
-REST APIs, PostgreSQL, Zod, Fastify
+TypeScript, React, Node.js, Bun, SQL, PostgreSQL, Fastify, Zod, REST APIs
 
-**AI Engineering**
+These technologies are used in systems built by AI agents. I do not present them as languages, frameworks, or tools that I program manually.
 
-Coding agents, LLM applications, structured outputs, model gateways, prompt versioning, LLM evaluation, guardrails
+## AI workflow capabilities
 
-**Engineering Practices**
+Prompt Engineering, Context Design, Agent Orchestration, Task Decomposition, Cross-Model Review, Automated Testing, LLM Evaluation, Structured Outputs, Guardrails
 
-Domain Driven Design, Hexagonal Architecture, Ports and Adapters, automated testing, architecture fitness, contract validation, idempotency, security boundaries
+## Languages
 
-## Current Focus
+- Portuguese: Native
+- Spanish: Fluent
+- English: Basic / Intermediate speaking, with technical reading and written communication supported by AI tools
 
-I am currently focused on building Pulsar and RestaurantZero while developing a professional practice around AI assisted and agentic product engineering.
+## Contact
 
-My goal is not to replace engineering with AI.
-
-It is to build systems where AI can execute more of the implementation process while architecture, constraints, validation and accountability remain explicit.
+- LinkedIn: https://www.linkedin.com/in/jf11
+- GitHub: https://github.com/Jetferrari
+- Email: jet.ferrari.ai@gmail.com
